@@ -1,3 +1,3 @@
 program start
-print*,"git init"
+print*,"git init check"
 end
